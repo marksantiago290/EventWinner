@@ -46,7 +46,7 @@ await eventWinner.callWinner(targetContractAddress);
 
 1. Clone the repository
  ```bash
-git clone https://github.com/BTC415/EventWinner.git
+git clone <this-repo-url>
  ```
 2. Install dependencies:
 ```bash
